@@ -1,0 +1,1 @@
+"Claude 3.5 AI Assistant: A cutting-edge, intelligent assistant designed to simplify tasks and enhance productivity. Powered by Claude 3.5, this AI offers intuitive, seamless interactions to assist with a wide range of activities, from simple queries to complex problem-solving."
